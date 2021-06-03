@@ -1,0 +1,6 @@
+pranesh,11,22,cse,dpr@test.com
+rahul,22,22,ece,dpr@test.com
+dpr,12,22,ece,dpr@test.com
+vignesh,89,30,ece,vicky@test.com
+vignesh,15,30,ece,vicky@test.com
+vicky,15,30,cse,vicky@test.com
