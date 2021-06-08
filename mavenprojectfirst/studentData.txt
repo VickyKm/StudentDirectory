@@ -1,0 +1,8 @@
+Srishti,22,Female,Chennai,srishtiacharaya@gmail.com,IT,8.23
+Borana,22,Female,Chennai,bhavanaborana@gmail.com,BA,9.1
+Ishrath,23,Female,Chennai,ishrath.nafisa@gmail.com,Bsc,8
+Shiney,23,Female,CMBT,shiney@shy.com,PPT,8
+Jeevitha,24,Female,Tatchur,jeevi@2016.com,IT,7.24
+Shivani,14,Female,Chennai,shiv@g.com,IT,8.9
+Divya,16,Female,Delhi,div@vid.com,CS,6.7
+Shivngi,13,Female,Vihar,shiv@gmail.com,CSE,9.2
